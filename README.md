@@ -7,7 +7,7 @@
 
 ## Error
 1. truncation error
-2. rounding error (Chopping or Round to nearest)
+2. rounding error (Chopping or Round to nearest{Round to Even Rule})
 
   *[Machine epsilon](https://en.wikipedia.org/wiki/Machine_epsilon)
 
