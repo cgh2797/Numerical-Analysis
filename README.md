@@ -3,6 +3,7 @@
 ## Error
 1. truncation error
 2. rounding error (Chopping or Round to nearest)
+
 *Machine epsilon
 
 ## Solving Nonlinear Equations
