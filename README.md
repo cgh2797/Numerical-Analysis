@@ -30,3 +30,4 @@
 ![img](https://github.com/cgh2797/Numerical-Analysis/blob/master/bookimg.jpg)
 
 ## Numerical matrix analysis
+![img2](https://github.com/cgh2797/Numerical-Analysis/blob/master/img2.jpg)
