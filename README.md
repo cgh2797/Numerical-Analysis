@@ -4,7 +4,7 @@
 1. truncation error
 2. rounding error (Chopping or Round to nearest)
 
-  *Machine epsilon
+   *Machine epsilon
 
 ## Solving Nonlinear Equations
 1. bisection method
