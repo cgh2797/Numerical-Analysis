@@ -2,6 +2,7 @@ a=[-1 2 1;2 1 0; 4 2 2 ];
 b=[4; 3 ; 8];
 
 %gauss elimination
+% no pivoting
 x=[0 ; 0; 0];
 % upper triangular matrix
 % n: sizeof(b), i,j 
@@ -16,7 +17,7 @@ end
 a
 b
  
-
+%back substitution
 x(n)=b(n)/a(n,n);
 for i=n-1:-1:1
     temp=0;
