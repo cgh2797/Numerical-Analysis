@@ -29,5 +29,5 @@
 ## Book
 <img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/bookimg.jpg" width="30%">
 
-## Numerical matrix analysis
+### Numerical matrix analysis
 <img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/img2.jpg" width="30%">
