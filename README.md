@@ -17,6 +17,10 @@
 3. secant method
 4. Fixed-point iteration ([Banach fixed-point theorem](https://en.wikipedia.org/wiki/Banach_fixed-point_theorem))
 
+## Iterative method
+- Jacobi iterative method
+- Gauss-Seidel method
+
 ## Interpolation
 
 ## Optimization
