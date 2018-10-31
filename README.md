@@ -20,8 +20,12 @@
 ## Iterative method
 - Jacobi iterative method
 - Gauss-Seidel method
+- SOR method
 
 ## Interpolation
+- Vandermonde
+- Lagrange
+- Newton
 
 ## Optimization
 
