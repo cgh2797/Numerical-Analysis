@@ -26,6 +26,8 @@
 - Vandermonde
 - Lagrange
 - Newton
+- Hermite polynomial interpolation 
+- Spline interpolation
 
 ## Optimization
 
