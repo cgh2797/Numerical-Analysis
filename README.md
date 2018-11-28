@@ -30,6 +30,10 @@
 - Spline interpolation
 
 ## Optimization
+1. Constrained optimization problem
+- Linear programming, Lagrange multiplier, KKT 
+2. Unconstrained optimization problem
+- Steepest descent (gradient descent), Newton method
 
 ## Numerical calculus
 
