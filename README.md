@@ -36,9 +36,10 @@
 - Steepest descent (gradient descent), Newton method
 
 ## Numerical calculus
-
+- Finite difference approximation
+- Newton-Cotes
 ## least square problem
-
+- Normal equation
 
 ## Book
 <img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/bookimg.jpg" width="30%">
