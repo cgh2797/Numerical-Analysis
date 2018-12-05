@@ -46,3 +46,6 @@
 
 ### Numerical matrix analysis
 <img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/img2.jpg" width="30%">
+
+### Numerical Mathematics and Computing
+<img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/img3.jpg" width="30%">
