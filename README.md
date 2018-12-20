@@ -40,6 +40,9 @@
 - Newton-Cotes
 ## least square problem
 - Normal equation
+## Differential equation
+- Euler’s method 
+- RK4
 
 ## Book
 <img src="https://github.com/cgh2797/Numerical-Analysis/blob/master/bookimg.jpg" width="30%">
